@@ -2,4 +2,4 @@
 
 Check out our Wiki!
 
-https://redeem4.github.io/Care_Corner/
+https://thorrellt.github.io/CareCorner/
