@@ -1,6 +1,6 @@
 ![Care Corner](https://user-images.githubusercontent.com/64343445/135701658-101637a6-e21e-4fad-b41a-75edfa8c64c5.png)
 
-## Welcome
+## :wave: Welcome
 Welcome to the Care Corner Android app. This application served as the senior team project for my CS degree. This Android application is built using Java with the layouts designed using XML. This prototype served as my team’s proof of concept for our application designed to increase the user’s safety by:  
 - GPS tracking a user in case an emergency or attack occurs
 - Messaging user-specified contacts when the user is in danger including the user’s location.  
@@ -19,7 +19,7 @@ By our prototype delivery date, we were to successfully demonstrate the implemen
 ## My Contribution
 For the Care Corner Project I served as team lead as well as the organizational driver of the team. I oversaw and planned most semiweekly team meetings, organized our Trello board and gantt chart, and delivered some portion of every presentation or demo the team gave.  
 
-### For the Care Corner application, my contributions included:  
+For the Care Corner application, my contributions included:  
 - Integration of the HERE API for the GPS mapping.
 - Implementing the mapping functionality and accompanying drawer.
 - Building and implementing the audio playback service for the Fake Phone Call.
@@ -27,7 +27,11 @@ For the Care Corner Project I served as team lead as well as the organizational 
 - Building and implementing the audio recording page, it’s recycler view list, and it’s customer media player and accompanying drawer.
 - Building the Panic Button Activity.
 - Building the “incident” class and the logic behind how the data is tracked and stored when the Panic Button is activated, including its recycler view list.
-- Designed the DB schema and built it using SQL
+- Designed the DB schema and built it using SQL  
+<div align="center"> 
+	<img src="https://user-images.githubusercontent.com/64343445/135740904-425c2144-aa3e-445a-9511-036e51d5c3d2.gif" width="175">
+	<img src="https://user-images.githubusercontent.com/64343445/135741004-46473371-b984-46bf-8123-7016653e80d0.gif" width="175">
+</div> 
   
 
 ## Installation
@@ -52,7 +56,7 @@ To include database connection follow the instructions on the API ReadMe [here.]
 - After you have successfully put in your credentials, you will land on the Care Corner Home screen. 
 
 <div align="center"> 
-	<img src="https://user-images.githubusercontent.com/64343445/135739565-f6634799-3071-4da2-a70b-7a5d1b705699.png" width="300">
+	<img src="https://user-images.githubusercontent.com/64343445/135739565-f6634799-3071-4da2-a70b-7a5d1b705699.png" width="175">
 </div>      
 
 #### For more information about navigating the features of Care Corner  
