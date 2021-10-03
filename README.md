@@ -1,5 +1,34 @@
 ![Care Corner](https://user-images.githubusercontent.com/64343445/135701658-101637a6-e21e-4fad-b41a-75edfa8c64c5.png)
 
+## Welcome
+Welcome to the Care Corner Android app. This application served as the senior team project for my CS degree. This Android application is built using Java with the layouts designed using XML. This prototype served as my team’s proof of concept for our application designed to increase the user’s safety by:  
+- GPS tracking a user in case an emergency or attack occurs
+- Messaging user-specified contacts when the user is in danger including the user’s location.  
+- Storing data from any “incident” that occurs, including device audio, GPS route, timestamps and journal entries.    
+Amongst other things.
+
+By our prototype delivery date, we were to successfully demonstrate the implementation of
+- SMS messaging via the Twilio API
+- GPS tracking via the HERE API
+- End to End communication between our app and our backend designed using Serverless Framework and LocalStack to serve as a local AWS environment
+- Audio Recording as an Android Service
+- Audio Storage on Device using Shared Preferences 
+- Audio playback as an Android Service, and 
+- An editable Journal with individual entries in a Recycler View  
+
+## My Contribution
+For the Care Corner Project I served as team lead as well as the organizational driver of the team. I oversaw and planned most semiweekly team meetings, organized our Trello board and gantt chart, and delivered some portion of every presentation or demo the team gave.  
+
+### For the Care Corner application, my contributions included:  
+- Integration of the HERE API for the GPS mapping.
+- Implementing the mapping functionality and accompanying drawer.
+- Building and implementing the audio playback service for the Fake Phone Call.
+- Building and implementing the audio recording service.
+- Building and implementing the audio recording page, it’s recycler view list, and it’s customer media player and accompanying drawer.
+- Building the Panic Button Activity.
+- Building the “incident” class and the logic behind how the data is tracked and stored when the Panic Button is activated, including its recycler view list.
+- Designed the DB schema and built it using SQL
+  
 
 ## Installation
 
@@ -11,9 +40,26 @@
 
 4. Run the app on an emulator. 
 
-To include database connection follow the instructions on the API readMe [here.](https://github.com/thorrellt/CareCorner/blob/master/care-corner-api/README.md)  
+To include database connection follow the instructions on the API ReadMe [here.](https://github.com/thorrellt/CareCorner/blob/master/care-corner-api/README.md)  
+
+
+## How to use Care Corner
+
+- Upon opening the Care Corner you will be greeted by the Welcome Screen. Please select Login.
+
+- You will now be asked for your credentials, please put “demo” for both the username and password.
+
+- After you have successfully put in your credentials, you will land on the Care Corner Home screen. 
+
+<div align="center"> 
+	<img src="https://user-images.githubusercontent.com/64343445/135739565-f6634799-3071-4da2-a70b-7a5d1b705699.png" width="300">
+</div>      
+
+#### For more information about navigating the features of Care Corner  
+[please visit the Wiki]( https://github.com/thorrellt/CareCorner/wiki)  
   
   
 
-The Care Corner Website  
+## The Care Corner Website   
+The project website for Care Corner is available here!  
 https://thorrellt.github.io/CareCorner/
