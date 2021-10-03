@@ -3,17 +3,17 @@
 
 ## Installation
 
-1. Download the zip file from [Master](https://github.com/thorrellt/CareCorner.git) and unzip in on your PC.
+1. Download the zip file from Master and unzip it onto your PC.
 
-2. Import the Project in Android Studio
+2. Import the Project in Android Studio.
 
-3. Build the application using the build.gradle file located in CareCorner/care-corner-mobile/
+3. Build the application using the build.gradle file located in CareCorner/care-corner-mobile.
 
 4. Run the app on an emulator. 
 
-To include database connection follow the instructions on the API readMe [here](https://github.com/thorrellt/CareCorner/blob/master/care-corner-api/README.md)
+To include database connection follow the instructions on the API readMe [here.](https://github.com/thorrellt/CareCorner/blob/master/care-corner-api/README.md)  
+  
+  
 
-
-
-Our Website  
+The Care Corner Website  
 https://thorrellt.github.io/CareCorner/
