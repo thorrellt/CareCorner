@@ -1,7 +1,7 @@
 ![Care Corner](https://user-images.githubusercontent.com/64343445/135701658-101637a6-e21e-4fad-b41a-75edfa8c64c5.png)
 
 ## :wave: Welcome
-Welcome to the Care Corner Android app. This application served as the senior team project for my CS degree. This Android application is built using Java with the layouts designed using XML. This prototype served as my team’s proof of concept for our application designed to increase the user’s safety by:  
+Welcome to the Care Corner Android appkucation. This app served as the senior team project for my CS degree. This Android application is built using Java with the layouts designed using XML. This prototype served as my team’s proof of concept for our application designed to increase the user’s safety by:  
 - GPS tracking a user in case an emergency or attack occurs
 - Messaging user-specified contacts when the user is in danger including the user’s location.  
 - Storing data from any “incident” that occurs, including device audio, GPS route, timestamps and journal entries.    
