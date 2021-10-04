@@ -7,7 +7,7 @@ Welcome to the Care Corner Android appkucation. This app served as the senior te
 - Storing data from any “incident” that occurs, including device audio, GPS route, timestamps and journal entries.    
 Amongst other things.
 
-By our prototype delivery date, we were to successfully demonstrate the implementation of
+By our prototype delivery date, we were able to successfully demonstrate the implementation of
 - SMS messaging via the Twilio API
 - GPS tracking via the HERE API
 - End to End communication between our app and our backend designed using Serverless Framework and LocalStack to serve as a local AWS environment
@@ -19,7 +19,7 @@ By our prototype delivery date, we were to successfully demonstrate the implemen
 ## My Contribution
 For the Care Corner Project I served as team lead as well as the organizational driver of the team. I oversaw and planned most semiweekly team meetings, organized our Trello board and gantt chart, and delivered some portion of every presentation or demo the team gave.  
 
-For the Care Corner application, my contributions included:  
+For the application, my contributions included:  
 - Integration of the HERE API for the GPS mapping.
 - Implementing the mapping functionality and accompanying drawer.
 - Building and implementing the audio playback service for the Fake Phone Call.
