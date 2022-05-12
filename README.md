@@ -66,4 +66,4 @@ To include database connection follow the instructions on the API ReadMe [here.]
 
 ## The Care Corner Website   
 The project website for Care Corner is available here!  
-https://thorrellt.github.io/CareCorner/
+[https://thorrellt.github.io/care-corner/](https://thorrellt.github.io/care-corner/)
