@@ -32,7 +32,17 @@ For the application, my contributions included:
 	<img src="https://user-images.githubusercontent.com/64343445/135740904-425c2144-aa3e-445a-9511-036e51d5c3d2.gif" width="175">
 	<img src="https://user-images.githubusercontent.com/64343445/135741004-46473371-b984-46bf-8123-7016653e80d0.gif" width="175">
 </div> 
-  
+
+
+## If I Revisited This Project, 
+#### I Would...
+
+-   Update the UI to eliminate the inconsistency between pages and give the app a more polished appearance. 
+
+-   Optimize the app by implementing proper Android design patterns to help eliminate a large portion of the bloat.
+
+-   Increase my testing coverage as most files lack testing of any kind. 
+
 
 ## Installation
 
